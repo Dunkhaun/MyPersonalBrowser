@@ -1,2 +1,2 @@
 # MyPersonalBrowser
-Throw this code into PyCharm and mess around with it! Dm me on discord @AverageGFXArtist#2256 if you have any suggestions for what I should do with it. Im semi-new at python and want to learn more!
+Working on turning into an executeable, for now if you want to test put it into PyCharm
